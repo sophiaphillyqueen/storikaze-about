@@ -9,6 +9,7 @@ require_once(dirname(__FILE__) . "/f_lclink.php");
 require_once(dirname(__FILE__) . "/f_hllink.php");
 require_once(dirname(__FILE__) . "/f_srkd_detect.php");
 require_once(dirname(__FILE__) . "/f_srkd_home.php");
+require_once(dirname(__FILE__) . "/f_srkd_code.php");
 
 
 ?>
