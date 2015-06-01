@@ -1,0 +1,6 @@
+git clone https://github.com/sophiaphillyqueen/storikaze-toc-maker.git
+( cd storikaze-toc-maker && (
+  mkdir -p ins-opt-code
+  echo /some/crazy/bin > ins-opt-code/dir-of-install.txt
+  sh install.sh
+) )
