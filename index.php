@@ -19,7 +19,22 @@ Originally, the goal of Storikaze was to build a program that would do for web-s
 (i.e., the written form) what Comikaze did for webcomics.
 It was later on that it was decided that instead of implementing Storikaze as a
 stand-alone system, it would be better to write software that built upon WordPress.
+As a result, Storikaze developed into the following components:
 </p>
+
+<ul>
+<li>A WordPress plugin (which is the heart of Storikaze)</li>
+<li>A Table of Contents generator - by which to generate the Table of Contents code
+for a Storikaze-enabled Wordpress site</li>
+</ul>
+
+<p class = "standard">
+In addition, it is hoped that more tools will be added to the Storikaze set -- such as:
+</p>
+
+<ul>
+<li>Tools to facilitate publishing of ebooks and print-books from the contents of Storikaze sites</li>
+</ul>
 
 <p class = "standard">
 The main component of the Storikaze toolchain is the <? lclink("WordPress plugin","wp-plugin"); ?>.
